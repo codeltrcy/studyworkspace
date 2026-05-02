@@ -1,6 +1,6 @@
-# 🧪 Лабораторная работа: Тестирование мобильного приложения
+# One Star App: Lowest Rated App | @codeliteracy
 
-## 📱 Object:
+## Object:
 
 **Name:** One Star App: Lowest Rated App  
 **Package:** `com.curiositycurve.www.theonestarapp`  
